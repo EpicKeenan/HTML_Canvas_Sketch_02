@@ -1,0 +1,20 @@
+canvas{
+    background-color: white;
+}
+
+body{
+    margin: 0;
+}
+
+h1, p {
+    color: firebrick;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.wrapper {
+    
+    padding: 20px;
+    background-color: black;
+    
+}
